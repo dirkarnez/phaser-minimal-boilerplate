@@ -7,6 +7,9 @@
 ### CDN
 - [phaser - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/libraries/phaser)
 
+### API
+- [Namespace - Phaser 3 API Documentation (beta)](https://newdocs.phaser.io/docs/3.60.0/namespaces)
+
 ### Notes
 - This sample does not support mobile web
   - needs `pointerdown`, `pointermove`, events... etc
