@@ -6,3 +6,7 @@
 
 ### CDN
 - [phaser - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/libraries/phaser)
+
+### Notes
+- This sample does not support mobile web
+  - needs `pointerdown`, `pointermove`, events... etc
