@@ -13,3 +13,4 @@
 ### Notes
 - This sample does not support mobile web
   - needs `pointerdown`, `pointermove`, events... etc
+- for integration, use [dirkarnez/phaser-webpack-var-export](https://github.com/dirkarnez/phaser-webpack-var-export)
